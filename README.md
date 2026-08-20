@@ -345,4 +345,3 @@ This repository uses semantic versioning. The current release is `1.3.11`.
 ## License
 
 MIT License. See `LICENSE`.
-# apic-cimc-ansible-v1.3.11
